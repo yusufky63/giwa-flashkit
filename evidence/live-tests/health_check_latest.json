@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-09-17T21:43:55Z",
+  "targetChain": "GIWA Sepolia",
+  "chainId": 91342,
+  "endpoints": {
+    "standardRpc": {
+      "url": "https://sepolia-rpc.giwa.io",
+      "status": "PASS",
+      "chainId": 91342,
+      "latencyMs": 1085
+    },
+    "flashblocksRpc": {
+      "url": "https://sepolia-rpc-flashblocks.giwa.io",
+      "status": "PASS",
+      "chainId": 91342,
+      "latencyMs": 1297
+    },
+    "explorer": {
+      "url": "https://sepolia-explorer.giwa.io",
+      "status": "PASS",
+      "httpStatus": 200,
+      "latencyMs": 1450
+    },
+    "simulation": {
+      "method": "eth_simulateV1",
+      "status": "PASS",
+      "latencyMs": 1268
+    }
+  },
+  "overallStatus": "ALL_SYSTEMS_OPERATIONAL"
+}

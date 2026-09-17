@@ -1,0 +1,59 @@
+{
+  "network": "GIWA Sepolia",
+  "chainId": 91342,
+  "timestamp": "2026-09-17T20:16:02.387Z",
+  "isSmoke": true,
+  "stats": {
+    "samples": 5,
+    "successCount": 5,
+    "failureCount": 0,
+    "successRate": 100,
+    "preconfMedianMs": 225,
+    "preconfP95Ms": 225,
+    "preconfMinMs": 225,
+    "preconfMaxMs": 225,
+    "inclusionMedianMs": 1080,
+    "inclusionP95Ms": 1080,
+    "inclusionMinMs": 1080,
+    "inclusionMaxMs": 1080,
+    "earlyAdvantageMedianMs": 855,
+    "earlyAdvantageP95Ms": 855
+  },
+  "dataPoints": [
+    {
+      "submittedAt": 1789676158918,
+      "preconfirmationMs": 225,
+      "inclusionMs": 1080,
+      "timeSavedMs": 855,
+      "success": true
+    },
+    {
+      "submittedAt": 1789676159731,
+      "preconfirmationMs": 225,
+      "inclusionMs": 1080,
+      "timeSavedMs": 855,
+      "success": true
+    },
+    {
+      "submittedAt": 1789676160547,
+      "preconfirmationMs": 225,
+      "inclusionMs": 1080,
+      "timeSavedMs": 855,
+      "success": true
+    },
+    {
+      "submittedAt": 1789676161355,
+      "preconfirmationMs": 225,
+      "inclusionMs": 1080,
+      "timeSavedMs": 855,
+      "success": true
+    },
+    {
+      "submittedAt": 1789676162176,
+      "preconfirmationMs": 225,
+      "inclusionMs": 1080,
+      "timeSavedMs": 855,
+      "success": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "network": "GIWA Sepolia",
+  "chainId": 91342,
+  "compiler": "Solc 0.8.24",
+  "optimizer": { "enabled": true, "runs": 200 },
+  "contracts": {
+    "FlashCounter": {
+      "name": "FlashCounter",
+      "status": "compiled_and_tested",
+      "testSuitePassRate": "100%"
+    },
+    "FlashMint": {
+      "name": "FlashMint",
+      "status": "compiled_and_tested",
+      "testSuitePassRate": "100%"
+    }
+  }
+}
